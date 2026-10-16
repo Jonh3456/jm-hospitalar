@@ -1,2 +1,2 @@
-# jm-hospitalar
-Aplicativo de controle de vendas
+# JM Hospitalar
+Versão oficial com atualização apenas nas telas administrativas.
